@@ -2,7 +2,7 @@
   "name": "Championnat Live",
   "short_name": "Champ Live",
   "description": "Suivi de match en direct pour petit championnat local — style SofaScore offline",
-  "start_url": "./championnat_live.html",
+  "start_url": "./index.html",
   "display": "standalone",
   "orientation": "portrait-primary",
   "background_color": "#0e1118",
